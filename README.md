@@ -4,6 +4,8 @@ An interactive Power BI dashboard analysing Indian Railways (IRCTC) ticket booki
 
  <img width="416" height="231" alt="Dashboard" src="https://github.com/user-attachments/assets/9cdac2cb-c187-4870-a6b9-b8939a032b02" />
 
+ ## Watch the demo video - https://drive.google.com/file/d/1rt3CP1oFOFLUsWu9O55qq6aIte6Mv-a7/view?usp=sharing
+
 ## Features
 - KPI cards: Total Sales, Average Rating, Avg Ticket Value, Rating Count, Total Bookings
 - Monthly, daily and weekly sales trends
